@@ -1,0 +1,18 @@
+.brand-logo {
+    width: 4%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+.style-container {
+    margin: 0!important;
+}
+
+.style-navbar {
+    padding: 0!important;
+}
+
+.background-style {
+    background-color: rgba(108,117,125, 0.955); 
+}
